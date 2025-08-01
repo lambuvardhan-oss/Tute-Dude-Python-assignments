@@ -16,7 +16,4 @@ A Python script that:
 
 ## How to Run
 1. Clone the repository or download the `.py` files
-2. Run using Python 3:
-   ```bash
-   python task1.py
-   python task2.py
+2. Run using Python 3
