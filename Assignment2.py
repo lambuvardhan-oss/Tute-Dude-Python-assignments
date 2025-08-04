@@ -6,7 +6,7 @@ else:
     print(f"{Number} is an odd number.")
 
 #Task2
-Numbers=list(range(1,51))
-Total=sum(Numbers)
-print("sum of numbers from 1 to 50 is:",Total)
-      
+total=0
+for i in range(1,51):
+    total+=i
+print("The sum of numbers from 1 to 50 is:",total)
